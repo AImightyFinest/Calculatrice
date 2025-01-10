@@ -1,5 +1,4 @@
 console.log ("Calculator")
-// CALCULATOR PROGRAM
 
 
 
