@@ -1,5 +1,13 @@
-﻿# Calculator-js
+﻿# Calculatrice
 
- J'ai créé une petite calculatrice similaire a celles que nous avons sur nos téléphones
+Une simple calculatrice créée avec **HTML**, **CSS** et **JavaScript**.
 
- Les langages de programmation utilisés sont : HTML, CSS et JavaScript.
+## Fonctionnalités
+
+- Effectuer des opérations de base : addition, soustraction, multiplication, division.
+
+## Comment utiliser
+
+1. Téléchargez les fichiers du projet.
+2. Ouvrez `index.html` dans un navigateur web.
+3. Utilisez les boutons pour effectuer des calculs.
